@@ -14,7 +14,7 @@
 
 	*
 	{
-		overflow: visible;
+		overflow: visible !important;
 	}
 
 	/* Header Style */
