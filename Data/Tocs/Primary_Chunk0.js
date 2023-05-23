@@ -1,1 +1,1 @@
-﻿define({'/Content/Topic.htm':{i:[0],t:['Topic Title'],b:['']}});
+﻿define({'/Content/Topic.htm':{i:[0],t:['Topic Title'],b:['']},'/Content/Topic2.htm':{i:[1],t:['Topic2'],b:['']}});
